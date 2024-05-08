@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97.06 55.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eb5e28;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: PTSerif-BoldItalic, 'PT Serif';
+        font-size: 48.46px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <g id="Marc">
+    <text class="cls-2" transform="translate(29.99 24.01) scale(.58)"><tspan x="0" y="0">Marc</tspan></text>
+  </g>
+  <g id="Sapa">
+    <text class="cls-1" transform="translate(0 47.81) scale(.58)"><tspan x="0" y="0">Sapa</tspan></text>
+  </g>
+</svg>

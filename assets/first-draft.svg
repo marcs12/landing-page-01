@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="main-vector" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #000;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="633.5 771.5 830.5 447.5 843.5 559.5 730.5 740.5 633.5 771.5"/>
+  <polygon class="cls-1" points="757.5 735.5 1009.5 326.5 1031.5 451.5 882.5 687.5 757.5 735.5"/>
+  <polygon class="cls-1" points="1040.5 465.5 996 531 1066.5 672.5 1154.5 681.5 1040.5 465.5"/>
+  <g>
+    <polygon class="cls-2" points="1085.69 510.5 1057.38 465.5 1215.7 465.5 1182.84 510.5 1085.69 510.5"/>
+    <path class="cls-3" d="M1214.72,466l-32.13,44h-96.62l-27.68-44h156.43M1216.68,465h-160.21l28.94,46h97.68l33.59-46h0Z"/>
+  </g>
+</svg>
